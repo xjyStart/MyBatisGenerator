@@ -1,7 +1,5 @@
 *.class
-*.apk
-bin/
-gen/
+.classpath
+.project
 .settings/
-proguard/
 /target/
